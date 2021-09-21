@@ -1,6 +1,6 @@
-# -LCD-BACKLIGHT-SIMULATOR-USING-RTOS
+# LCD-BACKLIGHT-SIMULATOR-USING-RTOS
 
-      Free RTOS Challenge    
+    Free RTOS Challenge    
 Mimic a backlight LED for an LCD Screen     
 Echo any Serial Input back to the Serial   
 terminal, if an input is received in the    
